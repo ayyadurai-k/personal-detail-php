@@ -1,0 +1,7 @@
+Name: Ayyadurai K
+Phone Number: 06383570296
+Email: ad@wibetec.com
+Gender: male
+Skills: javascript, python
+Address: Avaniyapuram , Madurai -12
+
